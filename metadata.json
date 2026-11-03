@@ -1,0 +1,6 @@
+{
+  "name": "EcoCraft: Upcycled Newspaper Desk Organizer",
+  "description": "Showcase for an eco-friendly handcrafted upcycled newspaper pen and pencil stand with square-base stack design, features grid, 3-step crafting process, and interactive feedback form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
